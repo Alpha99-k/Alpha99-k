@@ -18,17 +18,16 @@ I'm a website developer specializing in WordPress development — profficient in
 ## 📂 WordPress Projects
 
 ### 🔹 [GreenArch website](https://www.greenarchmw.com/)
-GreenArch website.
+GreenArch website. Company profile
 
 ### 🔹 [SFS Malawi Website](https://sfsmalawi.com/)
-E-commerce site built with WooCommerce and customized checkout experience.
+Company profile/website
 
 ### 🔹 [Combine Cargo](https://combinecargo.mw/)
-A lightweight plugin to add and manage testimonials using a shortcode.
+Company profile/website
 
 ### 🔹 [Centre for Youth Empowerment and Civic Education (CYECE)](https://www.cyecemw.org/)
-A lightweight plugin to add and manage testimonials using a shortcode.
-
+Organization profile/website
 
 ---
 
