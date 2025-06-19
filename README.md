@@ -29,6 +29,9 @@ Company profile/website
 ### 🔹 [Centre for Youth Empowerment and Civic Education (CYECE)](https://www.cyecemw.org/)
 Organization profile/website
 
+### 🔹 [GadgetMixPlug Online Store)](https://gmp.alpha-alvick.site)
+ecommerce website profile/website
+
 ---
 
 
