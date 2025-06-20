@@ -30,7 +30,7 @@ Company profile/website
 Organization profile/website
 
 ### 🔹 [GadgetMixPlug Online Store)](https://gmp.alpha-alvick.site)
-ecommerce website profile/website
+e-commerce website profile/website
 
 ---
 
