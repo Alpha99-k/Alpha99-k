@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alpha Kanjala
 
-I'm a website developer specializing in WordPress development — profficient in various themes and plugins to develop fully functional and optimized sites.
+I'm a website developer specializing in website development with WordPress — profficient in various themes and plugins to develop fully functional and optimized sites.
 
 ---
 
